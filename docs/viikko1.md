@@ -1,1 +1,1 @@
- 
+ Pohdiskelin muutaman päivän ajan aihetta. Tein tutkimustyötä Androidin ja NXT:n välisestä bluetooth-kommunikaatiosta. Tutustuin käytössä oleviin Lego-palikoihin ja tein testirakennelmia. 
